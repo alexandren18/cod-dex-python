@@ -1,0 +1,5 @@
+print("30/09/2024")
+print("Felicidade")
+print("Cyber security")
+print("você vai se orgulhar do seu passado.")
+print("🐵")

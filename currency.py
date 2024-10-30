@@ -1,0 +1,5 @@
+peso = float(input("what do yoy have left in pesos? "))
+sole = float(input("What do you have left in soles? "))
+real = float (input("What do you have left in reais? "))
+dollar = (peso/4210.66) + (sole * 0.27) + (real / 5.44)
+print(dollar)
